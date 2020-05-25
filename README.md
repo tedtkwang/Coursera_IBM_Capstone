@@ -1,4 +1,5 @@
 # Coursera_IBM_Capstone Report
+## For full report in MS-Word: https://github.com/tedtkwang/Coursera_IBM_Capstone/blob/master/Capstone%20Project%20-%20The%20Battle%20of%20Neighborhoods.docx
 
 For this week, you will required to submit the following:
 1.	A description of the problem and a discussion of the background. (15 marks)  
